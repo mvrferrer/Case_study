@@ -1,0 +1,95 @@
+# TITLE
+Case Study on Marcus by Goldman Sachs
+ 
+## Overview and Origin
+* Name of company
+Marcus by Goldman Sachs
+* When was the company incorporated?
+Goldman Sachs was founded in 1869 but, but a subsidiary was not created until circa 2016. Years later stepping out of their usually wealthy customers, pigging backing on the central old, household name. A brief timeline is summarized below.
+* Who are the founders of the company?
+ Marcus Goldman and Samuel Sachs
+ * How did the idea for the company (or project) come about?  
+According to their website researched showed, consumers frustrated with consumer finance, its jargon, inflexible products & hidden fees. Study was based on over 100K consumers; to be made simple and transparent
+ * How is the company funded? How much funding have they received?
+In 2015 they decided to enter consumer finance sector by acquiring GE Capital Bank's US Online deposit platform (it doubled their clients) receiving approximately 8 billion
+ 
+## Business Activities:  
+* What specific financial problem is the company or project trying to solve? Hidden fees and bank jargon
+* Who is the company's intended customer? 
+Individuals feed up with loaded investments, higher-than-average saving/CD rates, savings with no minimum deposits, flexibility with CDs, difficult to access savings account, personal loan w/ no fees & fixed rate, doesn't need personnel at a bank for account needs ,long established institution
+ *Is there any information about the market size of this set of customers? (doubled after acquiring GE's platform. According to lendacademy.com: "they crossed $1 billion in total originations) within 8 months of launch. According to www.lendacademy.com, “We learned in Goldman Sachs Q2 earnings call in July that Marcus had originated more than $4 billion in total loans since launch and they had 1.5 million customers. Their deposit base is now $23 billion”.
+ *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+ 
+-Advantages deep-pocketed parent company
+-Disadvantage: no legacy technology, staff, thinking inside the organization
+ 
+According to lenacademy.com: existing customers from GS Bank & GE Online Platform--their differentiator: no fees, no origination fee for borrower, no prepayment, or late fees
+ 
+Competitors of Marcus according to Owler: OneMain Financial, Prosper, Lending Club, OnDeck, CapitalOne, Bank of America, Avant, Mariner Finance, LendUp
+ 
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+## Landscape:
+* What domain of the financial industry is the company in? consumer banking/online/mobile banking
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+Creating its own culture without any outside influence. Leads competitors to think about its digital future
+* What are the other major companies in this domain?
+Finn by Chase and Citi's new national digital bank
+ 
+## Results
+* What has been the business impact of this company so far?
+Pros: Online only bank intuitive website with FAQs and chat features, phone inquiries 7 days a week also a mobile app, high yield savings accounts, high yield CD/penalty-free CDs, no free personal loans
+Cons: no checking accounts ,no ATM network, no branches, no mobile check deposits- you will need to deposit into a high-yield savings account, mail a paper check, make a transfer from a linked external bank acct, set up direct deposit or effectuate a wire transfer
+ 
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* How is your company performing relative to competitors in the same domain?
+I believe exceptionally well, with the backing of Goldman Sachs, people believe they may be buying into exclusive management.
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? 
+Ability to deposit checks online via app. Mailing a check sounds antiquated 
+I think they need to create a stigma, marketing, a rouse, with assisting small business owners.
+(This could be something that a competitor offers or use your imagination!)
+* Why do you think that offering this product or service would benefit the company?
+I think almost the heyday, of giant corporations, are already situation and loyal to their banks. Small business, new, smaller sized companies are a threat.
+
+* What technologies would this additional product or service utilize?
+OCR, Optical character recognition for checks. 
+ 
+* Why are these technologies appropriate for your solution?
+Last but not least, I am certain Marcus and Goldman Sachs will follow suite to compete with JP Morgan’s latest news, having its own cryptocurrency. 
+ 
+Citations:
+https://www.investopedia.com/marcus-by-goldman-sachs-bank-review-4843783
+https://www.pymnts.com/earnings/2020/goldman-sachs-marcus-60b-deposits-digital-banking/
+https://www.owler.com/company/marcusbygoldmansachs
+https://en.wikipedia.org/wiki/Goldman_Sachs
+ 
+ 
+2013-2020 Section of Wikipedia: 
+04/2013 Goldman & Deutsche Bank- $17b bond offering by Apple Inc.	
+Goldman was lead underwriter for Twitter's IPO 2013. they were competing with Morgan Stanley
+
+06/2013 Goldman purchased loan portfolio from Brisbane-based Suncorp purchased for 960 million
+
+09/2013 Goldman Sachs Asset Management acquired Deutsche Asset & Wealth Management's stable value business AUM $21.6b 
+ 
+2013 Goldman underwrote 2.913b for Grand Parkway System Toll Revenue for Houston, TX
+
+08/2015 Goldman Sachs acquired GE's Capital bank on-line deposit platform. Included 8billion of online deposits another 8 billion of brokered CD
+
+10/2016 offered no fee personal loans under Marcus
+
+04/2016 purchased Honest Dollar: digital retirement savings tool: it was for small business and self-employed obtain affordable retirement
+in October 2016 Goldman Sachs started a direct (formerly GS Bank)
+
+05/2017 Goldman purchased 2.8billion of PDVSA 2022 bonds from Central bank of Venezuela during protests
+
+04/2018 bought Clarity money: personal finance startup to be added to Marcus.
+
+08/2019 Goldman joined Wells Fargo, NVIDIA and Nexus Venture Partners to invest h2o AI
+
+02/2020 Goldman with Aquiline and World Innovation Lab raised 51 million to invest in Uncork- a NY based software company
+ 
+ 
+
